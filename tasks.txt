@@ -9,5 +9,6 @@ plan0#
 
 Pending tasks for Vivek
 ========================
-1. Fininsh Coumputer vison course at Udemy by Sunday 
+1. Finish Coumputer vison course at Udemy.
+2. Machine learning crash-course at https://developers.google.com/machine-learning/crash-course/framing/ml-terminology
 
